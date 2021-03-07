@@ -1,6 +1,9 @@
 install:
 	poetry install
 	
+test:
+	poetry run pytest hexlet_python_package tests
+	
 
 build:
 	poetry build

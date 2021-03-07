@@ -5,3 +5,13 @@
 
 [![My auto linter](https://github.com/ruslanakhmett/python-project-lvl1/workflows/Python%20CI/badge.svg)](https://github.com/ruslanakhmett/python-project-lvl1/actions)
 
+
+<a href="https://asciinema.org/a/Q6nOGpanRuPFsAMd5diIfz43B">asciinema for brain-even</a>
+
+<a href="https://asciinema.org/a/86DF7wKH8nglm0NiyCbZCWMrS">asciinema for brain-calc</a>
+
+<a href="https://asciinema.org/a/-OI5ESmVbwEx0CGRQuAJamJLks">asciinema for brain-gcd</a>
+
+<a href="https://asciinema.org/a/XqAKIsptkCBd4nZiRj9GqKC4w">asciinema for brain-progression</a>
+
+<a href="https://asciinema.org/a/fRmNnhKwPzZA2Z19ulXBiiVWN">asciinema for brain-prime</a>

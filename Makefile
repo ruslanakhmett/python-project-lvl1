@@ -1,11 +1,11 @@
 install:
 	poetry install
 
-#test:
-#	poetry run pytest hexlet_python_package tests
+test:
+	poetry run pytest hexlet_python_package tests
 
-#lint:
-#	poetry run flake8 hexlet_python_package
+lint:
+	poetry run flake8 hexlet_python_package
 
 brain-games:
 	poetry run brain-games

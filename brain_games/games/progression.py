@@ -39,7 +39,9 @@ def new_round():
             the_progression.append(start_number + step_for_progression)
             start_number += step_for_progression
         
-    question = ''.join(str(the_progression)[1 : -1])
+    question = ''
+    for elem in the_progression:
+        question += str(elem) + ' '
     answer = str(hidden_number)
     return question, answer
 

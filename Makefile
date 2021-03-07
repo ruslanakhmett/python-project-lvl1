@@ -2,28 +2,11 @@ install:
 	poetry install
 
 test:
-	poetry run pytest hexlet_python_package tests
+	poetry run pytest brain_games tests
 
 lint:
-	poetry run flake8 hexlet_python_package
+	poetry run flake8 brain_games
 
-brain-games:
-	poetry run brain-games
-
-brain-even:
-	poetry run brain-even
-
-brain-calc:
-	poetry run brain-calc
-
-brain-gcd:
-	poetry run brain-gcd
-
-brain-progression:
-	poetry run brain-progression
-
-brain-prime:
-	poetry run brain-prime
 
 selfcheck:
 	poetry check

@@ -3,11 +3,9 @@ import prompt
 
 def privet_user(module):
     print("Welcome to the Brain Games!")
-    print(module.task)
-    print()
-    print()
     name = prompt.string('May I have your name? ')
     print('Hello, {}! '.format(name))
+    print(module.task)
     return name
 
 
@@ -22,7 +20,7 @@ def start(module):
         answer = prompt.string('Your answer: ')
         if answer.upper() != result:
             print()
-            print("'{}' <--- is wrong answer ;(.Correct answer was '{}'."
+            print("'{}' <--- is wrong answer ;(.Correct answer was '{}'. "
                   "Let's try again, {}!".format(answer.upper(), result, name))
             break
         print('Correct!')

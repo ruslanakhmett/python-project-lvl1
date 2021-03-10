@@ -1,4 +1,4 @@
-###A training project within the framework of the Hexlet course, which includes the development of the logic and architecture of the Brian-Games application, ###packaging the application using the Poetry package manager, publishing, as well as the using Git Action for automatic lintering.
+A training project within the framework of the Hexlet course, which includes the development of the logic and architecture of the Brian-Games application, packaging the application using the Poetry package manager, publishing, as well as the using Git Action for automatic lintering.
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/ruslanakhmett/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/ruslanakhmett/python-project-lvl1/actions)

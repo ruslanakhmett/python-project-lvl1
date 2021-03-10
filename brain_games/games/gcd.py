@@ -7,7 +7,7 @@ task = 'Find the greatest common divisor of given numbers.'
 def check_gcd(x, y):
     w = [x, y]
     w.sort()
-    a, b = w
+    a,b = w
     if b % a == 0:
         return a
     i = a

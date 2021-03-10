@@ -19,7 +19,6 @@ def new_round():
         else:
             the_progression.append(start_number + step_for_progression)
             start_number += step_for_progression
-        
     question = ''
     for elem in the_progression:
         question += str(elem) + ' '
